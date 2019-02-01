@@ -1,0 +1,23 @@
+{
+  "name": "fibonacci",
+  "version": "0.0.0",
+  "description": "fibonacci sequence with property based testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcMcIntosh/fibonacci.git"
+  },
+  "author": "Marc McIntosh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarcMcIntosh/fibonacci/issues"
+  },
+  "homepage": "https://github.com/MarcMcIntosh/fibonacci#readme",
+  "dependencies": {
+    "jsverify": "^0.8.4",
+    "mocha": "^5.2.0"
+  }
+}
